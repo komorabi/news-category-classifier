@@ -8,7 +8,7 @@ A Bidirectional LSTM model that classifies news articles into 13 semantic catego
 
 ## The Problem
 
-News datasets are messy. The original HuffPost dataset had 40+ overlapping, redundant categories — `"Arts & Culture"` vs `"Culture & Arts"`, `"Worldpost"` vs `"World News"` vs `"The WorldPost"`. Before any model could learn anything meaningful, the data needed to be understood and reorganized.
+News datasets are messy. The original HuffPost dataset had 40+ overlapping, redundant categories — "Arts & Culture" vs "Culture & Arts", "Worldpost" vs "World News" vs "The WorldPost". Before any model could learn anything meaningful, the data needed to be understood and reorganized.
 
 The first real work in this project wasn't training a model. It was making sense of the data.
 
